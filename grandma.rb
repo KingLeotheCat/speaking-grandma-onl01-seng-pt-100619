@@ -25,7 +25,7 @@ def speak_to_grandma(string)
   
     "HUH?! SPEAK UP, SONNY!"
     
-  elsif string == string.upcase
+  elsitring == string.upcase
   
     "NO, NOT SINCE 1938!"
       
